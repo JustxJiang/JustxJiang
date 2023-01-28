@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Justen Jiang 🐵🍓  
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
+- 🏫 I'm a high school student at Queens High School for the Sciences at York College 
+- 📝 I'm still learning and am currently taking a Full Stack Development Course
+- 💬 Discord: JustxMonk #1100
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 

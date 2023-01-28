@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Justen Jiang (Him/He) 🌻
+## Justen Jiang :Funnyface:  
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.

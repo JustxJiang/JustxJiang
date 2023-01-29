@@ -3,7 +3,7 @@
 ## Justen Jiang 🐵🍓  
 - 🏫 I'm a high school student at Queens High School for the Sciences at York College 
 - 📝 I'm still learning and am currently taking a Full Stack Development Course
-- 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email]( justenkaiz@gmail.com )
+- 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justenkaiz@gmail.com)
 - ⚡ **Unbelievable fact**: I'll figure that out next time :D
 
 <details>

@@ -19,12 +19,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
 
 ### Database Systems :bar_chart:
 

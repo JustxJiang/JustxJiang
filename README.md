@@ -11,7 +11,7 @@
 
 ### Little More About Me  
 
-It takes me a while to warm up to others. I love playing video games listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
+It takes me a while to warm up to others. I love biking, volleyball, music, and video games. I also read a lot of manhwI'm a team player when it comes to projects/groups. I am new to all this and am planning to make my owns project in the near future.
 
 Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 

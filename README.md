@@ -4,7 +4,6 @@
 - 🏫 I'm a high school student in New York, USA 
 - 📝 I'm trying to jumpstart my comp sci career and am currently taking a Full Stack Development Course
 - 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justenkaiz@gmail.com)
-- ⚡ **Unbelievable fact**: I'll figure that out next time :D
 
 <details>
 

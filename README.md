@@ -6,7 +6,7 @@
 - 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justenkaiz@gmail.com)
 - ⚡ **Unbelievable fact**: I'll figure that out next time :D
 
-<details>
+<More Details>
 
 
 ### Little More About Me  

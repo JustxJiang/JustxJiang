@@ -13,7 +13,7 @@
 
 It takes me a while to warm up to others. I love biking, volleyball, music, and video games. I also read a lot of manhwI'm a team player when it comes to projects/groups. I am new to all this and am planning to make my owns project in the near future.
 
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+Here's one of my favorite songs 🎤:- [**Everything Goes On by Porter Robinson**.](https://youtube.com/watch?v=BNMKGYiJpvg](https://www.youtube.com/watch?v=eEFVxI9lqjU)
 
 ### Programming Languages :scroll:
 

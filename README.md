@@ -16,7 +16,7 @@ It takes me a while to warm up to others. I love strawberries and most strawberr
 Here's one of my favorite songs 🎤:- [**Everything Goes On by Porter Robinson**] (https://youtube.com/watch?v=BNMKGYiJpvg](https://www.youtube.com/watch?v=eEFVxI9lqjU)
 
    
-<img src="https://wallpapercave.com/wp/wp8846506.jpg"/>
+<img height=40 width=60 src="https://wallpapercave.com/wp/wp8846506.jpg"/>
    
 
 ### Programming Languages :scroll:

@@ -11,7 +11,7 @@
 
 ### Little More About Me  
 
-It takes me a while to warm up to others. I love biking, volleyball, music, and video games. I also read a lot of manhwa (if you want any recommendations ask contact me :D). I'm a team player when it comes to projects/groups. I am new to all this and am planning to make my owns project in the near future.
+It takes me a while to warm up to others. I love strawberries and most strawberry flavor foods. I love biking, volleyball, music, and video games. I also read a lot of manhwa (if you want any recommendations ask contact me :D). I'm a team player when it comes to projects/groups. I am new to all this and am planning to make my owns project in the near future.
 
 Here's one of my favorite songs 🎤:- [**Everything Goes On by Porter Robinson**] (https://youtube.com/watch?v=BNMKGYiJpvg](https://www.youtube.com/watch?v=eEFVxI9lqjU)
 

@@ -15,6 +15,10 @@ It takes me a while to warm up to others. I love strawberries and most strawberr
 
 Here's one of my favorite songs 🎤:- [**Everything Goes On by Porter Robinson**] (https://youtube.com/watch?v=BNMKGYiJpvg](https://www.youtube.com/watch?v=eEFVxI9lqjU)
 
+   
+<img src="https://wallpapercave.com/wp/wp8846506.jpg"/>
+   
+
 ### Programming Languages :scroll:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
@@ -30,8 +34,8 @@ Here's one of my favorite songs 🎤:- [**Everything Goes On by Porter Robinson*
 
 1. **AP COMPUTER SCIENCE A**
    - AP Test Score: 5
-
-**More will come!**
+   
+   **More will come!**
   
 <br></details>
 <!-- footer --!>

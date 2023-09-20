@@ -1,9 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Justen Jiang 🐵🍓  
-- 🏫 I'm a high school student in New York, USA 
-- 📝 I'm trying to jumpstart my comp sci career and am currently taking a Full Stack Development Course
+- 🏫 College Student in RIT 
+- 📝 Computer Science Major
 - 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justenkaiz@gmail.com)
+- College Email: jj7932@rit.edu (jj7932@g.rit.edu)
 
 <details>
 

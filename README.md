@@ -3,7 +3,7 @@
 ## Justen Jiang 🐵🍓  
 - 🏫 College Student in RIT 
 - 📝 Computer Science Major
-- 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justenkaiz@gmail.com)
+- 📫 **How to reach me**: [Discord](JustxMonk #1100) or [Email] (justen.kz.jiang@gmail.com)
 - College Email: jj7932@rit.edu (jj7932@g.rit.edu)
 
 <details>
